@@ -1,3 +1,3 @@
 window.onload=function(){
-	alert("coucou");
+	// Mon code javascript après que la page se soit chargée
 };
