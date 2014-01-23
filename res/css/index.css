@@ -1,0 +1,68 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+#carroussel img {
+}
+
+/*#carroussel #previous, #carroussel #next {
+	position: absolute;
+	height: 10%;
+}*/
+
+#carroussel {
+	width: 100%;
+}
+
+.carroussel-control {
+
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+width: 15%;
+font-size: 20px;
+color: #fff;
+text-align: center;
+text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+opacity: .5;
+filter: alpha(opacity=50);
+}
+
+/*#image {
+	height: 100px;
+	width: 80%;
+	}*/
+
+
+
+
+
+
+
+
+/*#my-carousel ul, #my-carousel li {
+	padding: 0;
+	list-style: none;
+	list-style-type: none;
+}
+
+#my-carousel ul{  
+    position: relative;  
+    width: 100%;  
+    margin: 0;
+}
+
+#my-carousel li{  
+    display: block;  
+    border: 1px solid #ccc;  
+    overflow: hidden;  
+    width: 16%;  
+    margin: 2%;  
+    float: left;  
+    -moz-box-sizing: border-box;  
+    -webkit-box-sizing: border-box;  
+    box-sizing: border-box;  
+    height: 100px;  
+}  */
