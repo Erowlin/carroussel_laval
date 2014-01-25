@@ -9,13 +9,12 @@ html, body {
 	width: 100%;
 }
 
-#carroussel #image {
+.carrousel-image {
 	height: auto;
 	max-width: 100%;
 	display: block;
-	margin: 0 auto;
+	margin: 0 auto 0 auto;
 }
-
 
 .carroussel-control {
 	position: absolute;
@@ -34,4 +33,14 @@ html, body {
 .right {
 	left: auto;
 	right: 0;
+}
+
+
+
+#carrousel2 .carrousel-image {
+	display: none;
+}
+
+#carrousel2 .carrousel-image.active  {
+	display: inline;
 }
